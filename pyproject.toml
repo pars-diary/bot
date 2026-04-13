@@ -11,7 +11,7 @@ dependencies = [
     "bars-api",
     "cait-api",
     "fake-useragent==2.2.0",
-    "g4f>=0.6.1.6",
+    "g4f>=7.4.7",
     "loguru==0.7.3",
     "pydantic-settings==2.13.1",
     "matplotlib==3.10.8",
