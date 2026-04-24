@@ -14,7 +14,7 @@ dependencies = [
     "g4f>=0.6.1.6",
     "loguru==0.7.3",
     "pydantic-settings==2.13.1",
-    "matplotlib==3.10.8",
+    "matplotlib==3.10.9",
 ]
 
 [tool.ruff.lint]
